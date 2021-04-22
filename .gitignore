@@ -1,3 +1,7 @@
 WebScraping/
 __pycache__/
 *.cfg
+*.mp4
+*.ts
+tmp/
+XYZ.json
